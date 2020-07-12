@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^4.9.0"
+  },
+  "scripts": {
+    "test:prod":"npx cypress run"
+  }
+}
